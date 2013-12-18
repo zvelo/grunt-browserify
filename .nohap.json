@@ -1,0 +1,13 @@
+{
+    "github": {
+        "repo": "grunt-browserify"
+    },
+    "pivotal_tracker": {
+        "project": {
+            "id": 923852
+        }
+    },
+    "hipchat": {
+        "room": "Web"
+    }
+}
